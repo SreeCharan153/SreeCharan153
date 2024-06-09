@@ -52,6 +52,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/SreeCharan153/SreeCharan153/blob/output/snake.svg" alt="Snake animation" />
-
 ###
