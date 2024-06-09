@@ -23,5 +23,6 @@ jobs:
       - name: Push generated Snake
         uses: ad-m/github-push-action@v0.6.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           file: dist/snake.svg
