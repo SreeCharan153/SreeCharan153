@@ -50,7 +50,10 @@
 </p>  
 
 <h2>GitHub Stats</h2>  
-![SreeCharan153's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=dark)  
+## GitHub Stats
+
+![SreeCharan153's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=dark)
+
 
 <h2>Connect with Me</h2>  
 <p>Feel free to explore my projects and connect for collaboration. I'm always open to learning and networking! 😊</p>  
