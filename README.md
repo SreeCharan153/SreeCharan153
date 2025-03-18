@@ -24,14 +24,14 @@
 <h3>Programming Languages</h3>  
 <p>   
   <a href="https://skillicons.dev">     
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java" />   
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,java,dart" />   
   </a> 
 </p>  
 
 <h3>Frontend Technologies</h3>  
 <p>   
   <a href="https://skillicons.dev">     
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />   
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,flutter" />   
   </a> 
 </p>  
 
