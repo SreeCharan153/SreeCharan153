@@ -1,47 +1,73 @@
 <img src="git.png">
+
 <h1 align="center">Hi 👋, I'm Sri Charan Machabhakthuni</h1>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="250" align="right">
   <p>
-    I'm a Python backend developer in the making, cybersecurity enthusiast, and startup tinkerer.  
-    Currently building <b>PillionPal</b>, a ride-sharing app with <b>FairSplit</b> cost calculation,  
-    and prototyping <b>PelletPal</b>, a home plastic recycling machine.  
-    I actively contribute to <b>E-Cell REC</b>, leading projects like the <b>E-Summit</b> website.  
-    Outside code, I write <i>To Kill the One I Love</i>, a social fantasy novel.
+    Backend developer specializing in <b>Python, FastAPI, and PostgreSQL</b>.  
+    I build production-style systems with <b>clean architecture, atomic transactions, role-based access,
+    and end-to-end security practices</b>.  
+    Currently engineering <b>PillionPal</b> (ride-sharing backend with FairSplit algorithm) and  
+    <b>RupeeWave</b>, a live banking backend with concurrency-safe money transfers.
   </p>
 </div>
 
 ---
 
-## 🚀 What I'm Currently Doing
-- Developing **PillionPal** with AI-assisted features to optimize rides.  
-- Prototyping **PelletPal** for decentralized home recycling.  
-- Learning **Python backend dev**: database integration, JWT authentication, testing, deployment.  
-- Building real-world projects with **FastAPI**, **MySQL**, and cloud hosting.
+## 🚀 What I'm Doing Right Now
+- Building **production-grade backend systems** using FastAPI + PostgreSQL.  
+- Developing **PillionPal** backend with GPS routing, JWT auth, and FairSplit fare engine.  
+- Running **RupeeWave**, a fully live banking backend with migrations, audit logs, and atomic operations.  
+- Strengthening backend fundamentals: DB design, transactions, auth, load handling, deployment.  
+- Exploring **Supabase**, **Docker**, and cloud workflows.
 
 ---
 
-## 💻 Skills
+## 💻 Skills (Real & Battle-Tested)
 
-**Programming Languages:**  
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,dart" />
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
 
-**Frontend:**  
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,flutter" />
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 
-**Backend / Databases:**  
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql,firebase" />
+**Databases:**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 
-**Tools:**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,aws" />
+**Tools & Cloud:**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,vscode,figma" />
+
+---
+
+## 🧠 Highlight Projects
+
+### 🔹 **RupeeWave — Banking Backend (Live)**
+Production-style backend with:
+- Secure auth (JWT + PIN hashing)  
+- 3-role RBAC (admin, teller, customer)  
+- Atomic, concurrency-safe transfers  
+- Audit logs & Supabase migrations  
+- Clean folder architecture  
+**Live:** https://rupeewave.vercel.app  
+**Code:** https://github.com/SreeCharan153/RupeeWave  
+
+---
+
+### 🔹 **PillionPal — Ride-Sharing Backend**
+Ride-sharing platform with:
+- FairSplit cost-calculation  
+- JWT authentication  
+- Location-based ride logic  
+- Clean API + DB workflows  
+(Work in progress)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeCharan153&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeCharan153&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -56,4 +82,4 @@
   </a>
 </p>
 
-<p align="center">Always open for collaborations, ideas, and geeky chats. Let’s build cool stuff! 🚀</p>
+<p align="center">Open to backend roles, collaborations, and impactful engineering work. 🚀</p>
