@@ -59,8 +59,8 @@ Ride-sharing platform with:
 - FairSplit cost-calculation  
 - JWT authentication  
 - Location-based ride logic  
-- Clean API + DB workflows
-**Live:** https://pillionpal-api.onrender.com
+- Clean API + DB workflows  
+**Live:** https://pillionpal-api.onrender.com  
 **Code** https://github.com/SreeCharan153/PillionPal-API  
 (Work in progress)
 
