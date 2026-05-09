@@ -62,7 +62,6 @@ Ride-sharing platform with:
 - Clean API + DB workflows  
 **Live:** https://pillionpal-api.onrender.com  
 **Code** https://github.com/SreeCharan153/PillionPal-API  
-(Work in progress)
 
 ---
 
