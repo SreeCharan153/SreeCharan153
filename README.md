@@ -27,7 +27,7 @@
 ## 💻 Skills (Real & Battle-Tested)
 
 **Languages:**  
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,c" />
 
 **Backend:**  
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
