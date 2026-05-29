@@ -1,86 +1,123 @@
-<img src="git.png">
+<img src="git.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Sri Charan Machabhakthuni</h1>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="250" align="right">
-  <p>
-    Backend developer specializing in <b>Python, FastAPI, and PostgreSQL</b>.  
-    I build production-style systems with <b>clean architecture, atomic transactions, role-based access,
-    and end-to-end security practices</b>.  
-    Currently engineering <b>PillionPal</b> (ride-sharing backend with FairSplit algorithm) and  
-    <b>RupeeWave</b>, a live banking backend with concurrency-safe money transfers.
-  </p>
-</div>
-
----
-
-## 🚀 What I'm Doing Right Now
-- Building **production-grade backend systems** using FastAPI + PostgreSQL.  
-- Developing **PillionPal** backend with GPS routing, JWT auth, and FairSplit fare engine.  
-- Running **RupeeWave**, a fully live banking backend with migrations, audit logs, and atomic operations.  
-- Strengthening backend fundamentals: DB design, transactions, auth, load handling, deployment.  
-- Exploring **Supabase**, **Docker**, and cloud workflows.
-
----
-
-## 💻 Skills (Real & Battle-Tested)
-
-**Languages:**  
-<img src="https://skillicons.dev/icons?i=python,js,c" />
-
-**Backend:**  
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-
-**Databases:**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
-
-**Tools & Cloud:**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,vscode,figma" />
-
----
-
-## 🧠 Highlight Projects
-
-### 🔹 **RupeeWave — Banking Backend (Live)**
-Production-style backend with:
-- Secure auth (JWT + PIN hashing)  
-- 3-role RBAC (admin, teller, customer)  
-- Atomic, concurrency-safe transfers  
-- Audit logs & Supabase migrations  
-- Clean folder architecture  
-**Live:** https://rupeewave.vercel.app  
-**Code:** https://github.com/SreeCharan153/RupeeWave  
-
----
-
-### 🔹 **PillionPal — Ride-Sharing Backend**
-Ride-sharing platform with:
-- FairSplit cost-calculation  
-- JWT authentication  
-- Location-based ride logic  
-- Clean API + DB workflows  
-**Live:** https://pillionpal-api.onrender.com  
-**Code** https://github.com/SreeCharan153/PillionPal-API  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeCharan153&layout=compact&theme=dark" />
+Backend Developer | Python • Node.js • FastAPI • Express • PostgreSQL
+</p>
+
+<p align="center">
+I build backend systems focused on clean architecture, secure authentication,
+database design, role-based access control, and transaction-safe operations.
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 About Me
+
+- Backend-focused developer passionate about building reliable systems
+- Strong interest in API design, database architecture, and system design
+- Currently building and maintaining real-world backend projects
+- Continuously improving skills in scalability, security, and cloud deployment
+- Exploring Docker, Supabase, AWS, and modern backend workflows
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+</p>
+
+### Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode" />
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+### 💳 RupeeWave
+
+A banking backend designed around secure financial operations and transaction integrity.
+
+#### Key Features
+
+- JWT authentication with PIN hashing
+- Role-Based Access Control (Admin, Teller, Customer)
+- Atomic and concurrency-safe money transfers
+- Audit logging and activity tracking
+- PostgreSQL + Supabase migrations
+- Clean and maintainable backend architecture
+
+🔗 **Live:** https://rupeewave.vercel.app
+
+📂 **Repository:** https://github.com/SreeCharan153/RupeeWave
+
+---
+
+### 🏍️ PillionPal
+
+A ride-sharing backend focused on fair cost distribution and location-aware ride workflows.
+
+#### Key Features
+
+- FairSplit fare calculation engine
+- JWT authentication and authorization
+- Ride and location management workflows
+- PostgreSQL-powered data layer
+- Structured API architecture
+
+🔗 **Live:** https://pillionpal-api.onrender.com
+
+📂 **Repository:** https://github.com/SreeCharan153/PillionPal-API
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeCharan153&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Backend Engineering
+- PostgreSQL & Database Optimization
+- System Design Fundamentals
+- API Security & Authentication
+- Docker & Cloud Deployments
+- Scalable Backend Architectures
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sree-charan-machabhakthuni/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;
   <a href="mailto:sricharanmachabhakthuni@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-<p align="center">Open to backend roles, collaborations, and impactful engineering work. 🚀</p>
+<p align="center">
+Open to backend engineering opportunities, collaborations, and impactful software projects.
+</p>
