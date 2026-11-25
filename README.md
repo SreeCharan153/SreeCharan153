@@ -1,115 +1,190 @@
-<img src="git.png" width="100%" />
+ <escape><img src="git.png" width="100%" /></escape>
 
 <h1 align="center">Hi 👋, I'm Sri Charan Machabhakthuni</h1>
 
+<h3 align="center">Software Engineer | Backend Developer | Systems Thinker</h3>
+
 <p align="center">
-  <strong>Backend Developer | Python • Node.js • FastAPI • Express • PostgreSQL</strong>
+  <strong>Engineering reliable systems. Building products. Turning ideas into technology.</strong>
 </p>
 
 <p align="center">
-  Building reliable backend systems with a focus on authentication,
-  database design, transaction integrity, API architecture, and security.
+  <a href="https://www.linkedin.com/in/sree-charan-machabhakthuni/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/SreeCharan153">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:sricharanmachabhakthuni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- Backend-focused developer passionate about designing reliable software systems
-- Strong interest in API development, database architecture, and system design
-- Building real-world projects to strengthen engineering fundamentals
-- Continuously learning scalable backend patterns, cloud infrastructure, and deployment workflows
+I'm a software engineer passionate about building practical technology products and designing reliable software systems.
 
----
+My interests span backend engineering, system architecture, cybersecurity, cloud infrastructure, and emerging technologies.
 
-## 🧠 Featured Projects
+- 💻 Building scalable backend applications and REST APIs.
+- 🏗️ Designing database architectures and reliable transaction workflows.
+- 🔐 Exploring authentication, application security, and secure system design.
+- ☁️ Working with cloud platforms, deployment, and infrastructure.
+- 🚀 Turning ideas into functional software products.
+- 🧠 Continuously learning and experimenting with new technologies.
 
-### 💳 RupeeWave — Banking Backend
-
-A banking backend built around secure financial workflows and transaction safety.
-
-#### Highlights
-
-- JWT authentication with PIN hashing
-- Role-Based Access Control (Admin, Teller, Customer)
-- Atomic and concurrency-safe money transfers
-- Audit logging and transaction tracking
-- PostgreSQL + Supabase migrations
-- Modular and maintainable architecture
-
-🔗 **Live:** https://rupeewave.vercel.app
-
-📂 **Repository:** https://github.com/SreeCharan153/RupeeWave
+**My philosophy:** Understand the problem, engineer the solution, and build something that works in the real world.
 
 ---
 
-### 🏍️ PillionPal — Ride-Sharing Backend
+## 🚀 Featured Projects
 
-A ride-sharing backend focused on fair ride-cost distribution and location-aware workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### Highlights
+### 💳 RupeeWave
 
+**Banking Backend System**
+
+A banking backend focused on secure financial operations and transaction integrity.
+
+**Key Features**
+- JWT authentication and PIN hashing
+- Role-Based Access Control
+- Atomic and concurrency-safe transfers
+- Transaction audit logging
+- PostgreSQL and Supabase migrations
+- Modular backend architecture
+
+<p>
+<a href="https://rupeewave.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-Visit-2563EB?style=for-the-badge" />
+</a>
+<a href="https://github.com/SreeCharan153/RupeeWave">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏍️ PillionPal
+
+**Ride-Sharing Platform**
+
+A ride-sharing solution designed around affordable commuting and fair ride-cost distribution.
+
+**Key Features**
 - FairSplit fare-calculation engine
 - JWT authentication and authorization
-- Ride and location management workflows
+- Rider and pillion workflows
+- Location-aware ride management
 - PostgreSQL-powered backend
 - Structured API architecture
 
-🔗 **Live:** https://pillionpal-api.onrender.com
+<p>
+<a href="https://pillionpal-api.onrender.com">
+<img src="https://img.shields.io/badge/Live_API-Visit-16A34A?style=for-the-badge" />
+</a>
+<a href="https://github.com/SreeCharan153/PillionPal-API">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
-📂 **Repository:** https://github.com/SreeCharan153/PillionPal-API
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,c" />
-</p>
-
-### Backend
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" />
 </p>
 
-### Databases
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask" />
 </p>
 
-### Tools & Cloud
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
+
+### Databases & Storage
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,vercel,vscode" />
+</p>
+
+---
+
+## ⚙️ Engineering Interests
+
+| Domain | Focus Areas |
+|---|---|
+| Backend Engineering | REST APIs, Authentication, API Architecture |
+| Database Engineering | PostgreSQL, Transactions, Data Modeling |
+| System Design | Scalability, Reliability, Modular Architecture |
+| Cybersecurity | Application Security, JWT, Access Control |
+| Cloud & DevOps | AWS, Docker, Deployment, Linux |
+| Emerging Technology | AI, Automation, IoT |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeCharan153&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SreeCharan153&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeCharan153&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SreeCharan153&theme=github-dark&hide_border=true" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreeCharan153&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
+
+I'm interested in collaborating on meaningful software products, backend engineering, system design, and technology-driven projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sree-charan-machabhakthuni/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sri_Charan-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:sricharanmachabhakthuni@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  Open to backend engineering opportunities, collaborations, and impactful software projects.
+  <strong>Engineer by profession. Entrepreneur by passion.</strong>
+  <br/><br/>
+  <i>"Karmanye vadhikaraste ma phaleshu kadachana."</i>
+  <br/><br/>
+  Building. Breaking. Learning. Engineering.
 </p>
